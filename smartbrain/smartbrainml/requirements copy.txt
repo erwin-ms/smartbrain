@@ -66,4 +66,4 @@ wadllib==1.3.5
 wcwidth==0.2.5
 Werkzeug==2.0.2
 wrapt==1.12.1
-redis==4.0.2
+redis==4.4.4
